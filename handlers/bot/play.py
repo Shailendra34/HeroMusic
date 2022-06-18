@@ -107,7 +107,7 @@ async def play(_, message: Message):
     await message.delete()
     usrid = message.from_user.mention
 
-    lel = await message.reply("🔍")
+    lel = await message.reply("")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -173,10 +173,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/Royalkifeelings12"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/Royalkifeelings"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
@@ -217,10 +217,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/Royalkifeelings12"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/Royalkifeelings"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
@@ -238,10 +238,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/Royalkifeelings12"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/Royalkifeelings"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
@@ -297,10 +297,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/Royalkifeelings12"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/Royalkifeelings"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
