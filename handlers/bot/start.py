@@ -16,12 +16,12 @@ def start_(bot, message):
 
     START_BUTTON = [
                 [
-                    InlineKeyboardButton(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💫", url=f"https://t.me/HeroOfficialBots"),
+                    InlineKeyboardButton(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💫", url=f"https://t.me/Royalkifeelings"),
                     InlineKeyboardButton(text="𝐀𝐝𝐝 𝐌𝐞 ➕", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
                     InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ⭐", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/Shailendra34"),
+                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/Royal_boy_amit"),
                 ],                
                 [                    
                     InlineKeyboardButton(text="𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 📒", callback_data="help_"),
@@ -79,12 +79,12 @@ def callback_query(Client, callback: CallbackQuery):
         START_TEXT = f"""ʜᴇʏ, ᴍʏsᴇʟғ {BOT_NAME} \nᴀ sɪᴍᴘʟᴇ , ʟᴀɢ ғʀᴇᴇ ᴀɴᴅ ғʟᴇxɪʙʟᴇ ᴍᴜsɪᴄ ʙᴏᴛ 💥\nɪғ ʏᴏᴜ ғᴀᴄɪɴɢ ᴀɴʏ ɪssᴜᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ᴛʜᴇɴ ᴘʟᴇᴀsᴇ ᴊᴏɪɴ @{SUPPORT_GROUP}\nғᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ʏᴏᴜ ᴄᴀɴ ᴇxᴘʟᴏʀᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ʙʏ ᴛᴀᴘᴘɪɴɢ ᴏɴ /help """
         START_BUTTON = [
                 [
-                    InlineKeyboardButton(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💫", url=f"https://t.me/HeroOfficialBots"),
+                    InlineKeyboardButton(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💫", url=f"https://t.me/Royalkifeelings"),
                     InlineKeyboardButton(text="𝐀𝐝𝐝 𝐌𝐞 ➕", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
                     InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ⭐", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/Shailendra34"),
+                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/Royal_boy_amit"),
                 ],                
                 [                    
                     InlineKeyboardButton(text="𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 📒", callback_data="help_"),
