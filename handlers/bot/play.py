@@ -173,10 +173,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/ARZ_AGHORI_SUPPORT"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/AGHORI_NETWORK_FED"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
@@ -217,10 +217,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/ARZ_AGHORI_SUPPORT"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/AGHORI_NETWORK_FED"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
@@ -238,10 +238,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/ARZ_AGHORI_SUPPORT"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/AGHORI_NETWORK_FED"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
@@ -297,10 +297,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩 💫",
-                            url=f"https://t.me/Yaaro_ki_yaarii"),
+                            url=f"https://t.me/ARZ_AGHORI_SUPPORT"),
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭐",
-                            url=f"https://t.me/HeroOfficialBots"),
+                            url=f"https://t.me/AGHORI_NETWORK_FED"),
                ],
                [
                    InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data="close_"),                   
